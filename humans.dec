@@ -2,89 +2,88 @@
 1 Tymna the Weaver
 1 Ludevic, Necro-Alchemist
 
+// (t:human)
+// (t:creature -t:human)
 // (t:creature)
 1 Changeling Outcast
 1 Esper Sentinel
 1 Gingerbrute
-1 Giver of Runes
-1 Hope of Ghirapur
 1 Mother of Runes
 1 Ragavan, Nimble Pilferer
 1 Serra Ascendant
-1 Archivist of Oghma
 1 Baleful Strix
-1 Cartographer's Hawk
 1 Dark Confidant
-1 Dire Fleet Daredevil
-1 Dockside Extortionist
-1 Esior, Wardwing Familiar
 1 General's Enforcer
 1 Ghostly Pilferer
-1 Gilded Drake
 1 Harmonic Prodigy
-1 Hushbringer
 1 Invisible Stalker
+1 Jirina, Dauntless General
 1 Kari Zev, Skyship Raider
 1 Knight of the White Orchid
 1 Loyal Apprentice
-1 Selfless Spirit
+1 MacCready, Lamplight Mayor
+1 Mischievous Mystic
+1 Samut, Hazoret's Champion
+1 Senu, Keen-Eyed Protector
 1 Tetsuko Umezawa, Fugitive
+1 The Queen of Dale
 1 Triumphant Adventurer
-1 Zulaport Cutthroat
 1 Adeline, Resplendent Cathar
-1 Grim Haruspex
+1 Boromir, Warden of the Tower
+1 Cosmogrand Zenith
+1 Delney, Streetwise Lookout
 1 Imperial Recruiter
-1 Midnight Reaper
 1 Morbid Opportunist
 1 Nadaar, Selfless Paladin
-1 Opposition Agent
 1 Professional Face-Breaker
 1 Sefris of the Hidden Ways
-1 Welcoming Vampire
+1 Théoden, King of Rohan
 1 White Plume Adventurer
+1 Aragorn, King of Gondor
 1 Caves of Chaos Adventurer
+1 Greymond, Avacyn's Stalwart
+1 Grim Hireling
 1 Hostage Taker
-1 Marchesa, the Black Rose
+1 Jin Sakai, Ghost of Tsushima
 1 Midnight Pathlighter
 1 Palace Jailer
 1 Queen Marchesa
 1 Ravenloft Adventurer
+1 Rev, Tithe Extractor
+1 Roaming Throne
 1 Seasoned Dungeoneer
-1 Thorn of the Black Rose
+1 Winota, Joiner of Forces
 1 Rilsa Rael, Kingpin
-1 Agent of Treachery
-1 Elesh Norn, Grand Cenobite
+1 Éomer, King of Rohan
 
 1 Path to Exile
 1 Swords to Plowshares
-1 Cyclonic Rift
 1 Folk Hero
 1 Lightning Greaves
-1 Smuggler's Copter
-1 Fierce Guardianship
 1 Flawless Maneuver
 1 Haunted One
-1 Thorough Investigation
-1 Court of Grace
 1 Undercellar Sweep
+1 Mox Amber
+1 Raise the Palisade
 
 // (t:land)
+1 Ancient Ziggurat
 1 Arid Mesa
-1 Badlands
 1 Blood Crypt
 1 Bloodstained Mire
+1 Cavern of Souls
 1 City of Brass
 1 Command Tower
 1 Flooded Strand
 1 Godless Shrine
 1 Hallowed Fountain
 1 Island
+1 Kabira Takedown // Kabira Plateau
 1 Mana Confluence
 1 Marsh Flats
 1 Misty Rainforest
 1 Mountain
 1 Plains
-1 Plateau
 1 Polluted Delta
 1 Raffine's Tower
 1 Raugrin Triome
@@ -92,14 +91,18 @@
 1 Sacred Foundry
 1 Savai Triome
 1 Scalding Tarn
-1 Scrubland
+1 Secluded Courtyard
 1 Steam Vents
 1 Swamp
-1 Tundra
-1 Underground Sea
+1 Turbulent Crater
+1 Turbulent Moor
+1 Turbulent Shore
+1 Turbulent Springs
+1 Turbulent Steppe
+1 Turbulent Wetlands
+1 Unclaimed Territory
 1 Verdant Catacombs
-1 Volcanic Island
 1 Watery Grave
 1 Windswept Heath
+1 Witch Enchanter // Witch-Blessed Meadow
 1 Wooded Foothills
-1 Xander's Lounge
