@@ -1,76 +1,79 @@
 // Commander
-1 Springjack Shepherd
 1 Phelia, Exuberant Shepherd
+1 Springjack Shepherd
 
-1 Salvation Swan
-1 Endless Atlas
+// (t=creature)
+1 Esper Sentinel
+1 Giver of Runes
 1 Guide of Souls
-1 Pack Leader
-1 Sol Ring
-1 Skyclave Apparition
-1 Enduring Innocence
-1 Recruiter of the Guard
-1 Spirited Companion
+1 Mother of Runes
+1 Novice Inspector
+1 Ocelot Pride
+1 Thraben Inspector
+1 Weathered Wayfarer
+1 Auriok Champion
+1 Charming Prince
+1 Helpful Hunter
 1 Knight of the White Orchid
 1 Loyal Warhound
-1 World Map
-1 Exalted Sunborn
-1 Angel of Serenity
-1 Grasp of Fate
+1 Pack Leader
+1 Sanctifier en-Vec
+1 Spirited Companion
+1 White Orchid Phantom
 1 Delney, Streetwise Lookout
+1 Enduring Innocence
+1 Flickerwisp
+1 Kithkin Harbinger
+1 Ranger-Captain of Eos
+1 Recruiter of the Guard
+1 Rescue Girl, First Responder
+1 Skyclave Apparition
+1 Welcoming Vampire
+1 Flickering Hound
+1 Ranger of Eos
+1 Solemn Simulacrum
+1 Calmwater Mentor
+1 Cavalier of Dawn
+1 Elesh Norn, Mother of Machines
+1 Karmic Guide
+1 Starfield Shepherd
+1 Thalia's Lancers
+1 Evangel of Heliod
+1 Angel of Serenity
+1 Elesh Norn, Grand Cenobite
+1 Overlord of the Mistmoors
 1 Moonshaker Cavalry
+
+// (-t:creature -t:land)
+1 Ephemerate
+1 Expedition Map
 1 Land Tax
 1 Path to Exile
-1 Esper Sentinel
-1 Force of Virtue
-1 White Orchid Phantom
-1 The Restoration of Eiganjo
-1 Ranger-Captain of Eos
-1 Ephemerate
-1 Thraben Inspector
-1 Trading Post
-1 Novice Inspector
-1 Evangel of Heliod
-1 Weathered Wayfarer
-1 Charming Prince
-1 Elesh Norn, Grand Cenobite
-1 Elesh Norn, Mother of Machines
-1 Starfield Shepherd
-1 Cavalier of Dawn
-1 Contraband Livestock
-1 Flowering of the White Tree
-1 Flickerwisp
-1 Nyx Lotus
-1 Kithkin Harbinger
-1 Kor Cartographer
-1 Karmic Guide
-1 Sanctifier en-Vec
-1 Thalia's Lancers
-1 Expedition Map
-1 Guardian of Faith
-1 Wall of Omens
-1 Auriok Champion
-1 Ranger of Eos
-1 Overlord of the Mistmoors
-1 Wand of the Worldsoul
-1 Welcoming Vampire
-1 Throne of Eldraine
-1 Swords to Plowshares
-1 Solemn Simulacrum
-1 Tocasia's Welcome
-1 Teleportation Circle
-1 Helpful Hunter
-1 Airbender Ascension
-1 Giver of Runes
-1 Mother of Runes
-1 Cloudgoat Ranger
 1 Reconnaissance
-1 Ocelot Pride
-1 Witch Enchanter
+1 Sol Ring
+1 Swords to Plowshares
+1 Airbender Ascension
+1 Bilbo's Gambit
+1 Contraband Livestock
+1 Endless Atlas
+1 Flowering of the White Tree
+1 Grasp of Fate
+1 Tocasia's Welcome
+1 Wand of the Worldsoul
+1 Flare of Fortitude
+1 Force of Virtue
+1 Nyx Lotus
+1 Teleportation Circle
+1 Trading Post
+1 Morningtide's Light
+1 Throne of Eldraine
+
+// (t:land)
 1 Monumental Henge
 1 Springjack Pasture
 1 Mistveil Plains
-1 Razorgrass Ambush
+1 Razorgrass Ambush // Razorgrass Field
+1 Witch Enchanter // Witch-Blessed Meadow
 1 War Room
 26 Plains
 1 Urza's Cave
